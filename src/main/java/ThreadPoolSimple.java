@@ -1,6 +1,4 @@
 import java.util.concurrent.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
 
 class ThreadPoolSimple {
     public static void main(String[] args) throws Exception{
